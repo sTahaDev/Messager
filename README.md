@@ -8,6 +8,6 @@ Messager kişisel bilgisayardan RaspberryPi'a yada herhanhi başak bir bilgisaya
 
 # Nasıl Kullanılır
 ## Komutlar
-<li> ```file code.txt``` -> code.txt dosyasını gönderir </li>
+<li> <code> file code.txt </code> -> code.txt dosyasını gönderir </li>
 <li> ``` image people.jpeg ``` -> people.jpeg resmini gönderir </li>
 <li> ``` exit ``` -> Uygulamayı sonlandırır </li>
