@@ -2,12 +2,12 @@
 Messager kişisel bilgisayardan RaspberryPi'a yada herhanhi başak bir bilgisayara dosya veya resim göndermeyi sağlayan bir uygulama.
 
 # Nasıl Kurulur
-<li> Server klasörünü RaspberryPi'a, client klasörünü kişisel bilgisayarına gönder </li>
-<li> Client.py deki server_address deişkeninin ilk parametresine RaspberryPi'ın IP'sini yaz </li>
-<li> Client.py yi ve Server.py yi Python kullanarak çalıştır </li>
+<li> <code>Server</code> klasörünü RaspberryPi'a, <code>Client</code> klasörünü kişisel bilgisayarına gönder </li>
+<li> <code>Client.py</code> deki <code>server_address</code> deişkeninin ilk parametresine RaspberryPi'ın IP'sini yaz </li>
+<li> <code>Client.py</code> yi ve <code>Server.py</code> yi Python kullanarak çalıştır </li>
 
 # Nasıl Kullanılır
 ## Komutlar
 <li> <code> file code.txt </code> -> code.txt dosyasını gönderir </li>
 <li> <code> image people.jpeg </code> -> people.jpeg resmini gönderir </li>
-<li> <code> exit -> Uygulamayı sonlandırır </li>
+<li> <code> exit </code> -> Uygulamayı sonlandırır </li>
