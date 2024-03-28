@@ -1,5 +1,5 @@
 # Messager
-Messager kişisel bilgisayardan RaspberryPi'a yada herhanhi başak bir bilgisayara dosya veya resim göndermeyi sağlayan bir uygulama.
+Messager kişisel bilgisayardan RaspberryPi'a yada herhangi başak bir bilgisayara dosya veya resim göndermeyi sağlayan bir uygulama.
 
 # Nasıl Kurulur
 <li> <code>Server</code> klasörünü RaspberryPi'a, <code>Client</code> klasörünü kişisel bilgisayarına gönder </li>
